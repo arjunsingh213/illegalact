@@ -1,12 +1,9 @@
+streamlit
 numpy
-pyheif==0.5.1
-requests==2.26.0
-clip-by-openai
-matplotlib==3.4.2
+opencv-python
 
-whatimage==0.0.3
-streamlit==0.89.0
-Pillow==8.3.2
-opencv-python==4.5.3.56
-pyaml
-jupyter
+pillow
+clip-by-openai
+matplotlib
+torchvision 
+PyYAML
