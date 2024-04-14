@@ -3,7 +3,7 @@ numpy
 opencv-python
 
 pillow
-clip-by-openai
+git+https://github.com/openai/CLIP.git
 matplotlib
 torchvision 
 PyYAML
