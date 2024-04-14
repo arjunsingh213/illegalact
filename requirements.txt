@@ -1,5 +1,5 @@
 streamlit
-numpy
+numpy==1.20.3
 opencv-python==4.5.3.56
 pillow
 # Include other dependencies your app requires
