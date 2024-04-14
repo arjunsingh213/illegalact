@@ -1,7 +1,7 @@
 streamlit
 numpy
 opencv-python
-mesa-libGL
+
 pillow
 git+https://github.com/openai/CLIP.git
 matplotlib
